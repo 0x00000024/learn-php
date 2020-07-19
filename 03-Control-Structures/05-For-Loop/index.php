@@ -6,8 +6,6 @@
 </head>
 <body>
 
-<h2>Comparison Operators</h2>
-
 <?php
 
 for ($counter = 0; $counter < 10;  $counter++){
