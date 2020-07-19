@@ -1,2 +1,0 @@
-Home:index.php
-Practice Section 3:3.php
